@@ -38,8 +38,8 @@ class TabBarPage extends StatelessWidget {
             title: Text('Connect'),
           ),
           BottomNavigationBarItem(
-            icon: Icon(CupertinoIcons.gear),
-            title: Text('Account'),
+            icon: Icon(CupertinoIcons.profile_circled),
+            title: Text('Profile'),
           ),
         ],
       ),

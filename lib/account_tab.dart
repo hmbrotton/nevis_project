@@ -14,7 +14,7 @@ class _AccountTabState extends State<AccountTab> {
     return CustomScrollView(
       slivers: <Widget>[
         CupertinoSliverNavigationBar(
-          largeTitle: Text('Account'),
+          largeTitle: Text('Profile'),
         ),
         SliverList(
           delegate: SliverChildListDelegate(
