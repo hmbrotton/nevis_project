@@ -17,6 +17,9 @@ environment:
   sdk: ">=2.1.0 <3.0.0"
 
 dependencies:
+  pie_chart: 3.1.1
+  font_awesome_flutter: 8.8.1
+  google_maps_flutter: 0.5.25+3
   flutter:
     sdk: flutter
   provider: ^3.0.0+1
